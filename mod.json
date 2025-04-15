@@ -1,24 +1,23 @@
 {
-	"geode": "4.2.0",
+	"geode": "4.3.1",
 	"gd": {
 		"win": "2.2074",
-		"android": "2.2074"
+		"android": "2.2074",
+		"mac": "2.2074"
 	},
 	"version": "v7.0.4-beta.15",
 	"id": "user95401.mainlevelseditor",
 	"name": "Main Levels Editor",
 	"developer": "user95401",
 	"description": "customizable thing to change main levels uknowya",
-	"repository": "https://github.com/user95401/MainLevelsEditor",
+	"links": {
+		"source": "https://github.com/user95401/MainLevelsEditor"
+	},
 	"tags": [ "gameplay", "music", "interface", "utility", "customization", "cheat" ],
 	"early-load": true,
-	"dependencies": [
-		{
-			"id": "geode.node-ids",
-			"version": ">=v1.13.1",
-			"importance": "required"
-		}
-	],
+	"dependencies": {
+		"geode.node-ids": ">=v1.13.1"
+	},
 	"settings": {
 		"ui": {
 			"name": "Add control UI",
