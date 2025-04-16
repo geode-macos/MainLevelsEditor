@@ -1,6 +1,6 @@
 #include <Geode/Geode.hpp>
 #include <Geode/ui/GeodeUI.hpp>
-#include <hjfod.gmd-api/include/GMD.hpp>
+#include "GMD.hpp"
 #include <alphalaneous.alphas_geode_utils/include/NodeModding.h>
 #include <alphalaneous.alphas_geode_utils/include/Utils.h>
 

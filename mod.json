@@ -20,7 +20,6 @@
 	"tags": [ "gameplay", "music", "interface", "utility", "customization", "cheat" ],
 	"dependencies": {
 		"geode.node-ids": ">=v1.12.0",
-		"hjfod.gmd-api": "1.2.1",
 		"alphalaneous.alphas_geode_utils": ">=1.0.4"
 	},
 	"settings": {
